@@ -1,4 +1,4 @@
-# Add
+# add
 
 [**Challenge Link**](https://app.codesignal.com/arcade/intro/level-1/jwr339Kq6e3LQTsfa)
 
