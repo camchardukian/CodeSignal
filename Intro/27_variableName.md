@@ -16,8 +16,8 @@ Check if the given string is a correct variable name.
 
 ```
 function solution(name) {
-    const regEx = /^[a-zA-Z_][a-zA-Z0-9_]*$/;
-return regEx.test(name)
+  const regEx = /^[a-zA-Z_][a-zA-Z0-9_]*$/;
+  return regEx.test(name);
 }
 ```
 
