@@ -36,7 +36,7 @@ function solution(n) {
 }
 ```
 
-**Reflection:** My logic was decent as I analyzed this problem, but the solution I came up with was a bit overcomplicated. I came to a solution
+**Reflection:** My logic was decent as I analyzed this problem, but the solution I came up with was a bit overcomplicated.
 
 All we needed to solve this problem was to recognize that as long as we had any number from 1-9 follow a 0, then we could return true.
 
